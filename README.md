@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Working as FullStack Developer<br>👯 I’m looking to collaborate on Fullstack Projects<br>🌱 <br>💬 Ask me about Java/Javascript<br>
+🔭 I’m currently Working as FullStack Developer<br>👯 I’m looking to collaborate on Fullstack Projects<br>💬 Ask me about Java/Javascript<br>
 
 
 ## 🌐 Socials:
