@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Looking for a Frontend Developer role<br>👯 I’m looking to collaborate on Frontend Projects<br>>🌱 I’m currently learning React JS with Redux Toolkit<br>💬 Ask me about Javascript<br>
+🔭 I’m currently Working as FullStack Developer<br>👯 I’m looking to collaborate on Fullstack Projects<br>>🌱 <br>💬 Ask me about Java/Javascript<br>
 
 
 ## 🌐 Socials:
